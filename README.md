@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on Study Platform Project **LetsDoSomething**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Web Developing**
 
 - 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush/)
 
-- 📫 How to reach me **gameraayushpandey1100@gmail.com**
+- 📫 How to reach me **shivamseth221104@gmail.com**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
