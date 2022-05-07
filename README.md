@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Developing**
 
-- 👨‍💻 All of my projects are available at [github.com/CodeERAayush/](github.com/CodeERAayush/)
+- 👨‍💻 All of my projects are available at [https://github.com/shivamseth22]
 
 - 📫 How to reach me **shivamseth221104@gmail.com**
 <hr>
