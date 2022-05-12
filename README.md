@@ -35,5 +35,5 @@
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codershivam&show_icons=true&locale=en" alt="codershivam" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codershivam&show_icons=true&locale=en&layout=compact" alt="codershivam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codERShivam&langs_count=8$theme=midnight-purple" alt="codERShivam" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codershivam&" alt="codershivam" /></p>
