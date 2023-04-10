@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam seth </h1>
 <h3 align="left">A passionate software developer from India. Learning new technologies and interested in contributions that make my knowledge useful for others.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=codershivam&label=Profile%20views&color=0e75b6&style=flat" alt="codershivam" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shivamseth22&label=Profile%20views&color=0e75b6&style=flat" alt="codershivam" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codershivam" alt="codershivam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamseth22" alt="codershivam" /></a> </p>
 
 - 🔭 I’m currently working on Study Platform Project **LetsDoSomething**
 
