@@ -15,7 +15,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://dev.to/codeeraayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codeeraayush" height="30" width="40" /></a> -->
+<!-- <a href="https://dev.to/codeeraayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="codERshivam" height="30" width="40" /></a> -->
 <a href="https://twitter.com/ShivamS06874751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShivamS06874751" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shivam-seth-201496220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamseth-a8b65b203/" height="30" width="40" /></a>
 <a href="https://instagram.com/btwishivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwishivam" height="30" width="40" /></a>
@@ -29,10 +29,10 @@
 <hr>
 
 <!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codeERAayush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeERAayush" /></a><a href="https://ko-fi.com/codeeraayush"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codeeraayush" /></a></p><br><br> -->
+<p><a href="https://www.buymeacoffee.com/codeERshivam22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeERAayush" /></a><a href="https://ko-fi.com/codeeraayush"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codeeraayush" /></a></p><br><br> -->
 
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamseth22&show_icons=true&locale=en" alt="shivamseth" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamseth22&langs_count=8$theme=midnight-purple" alt="shivamseth22" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamseth22&" alt="shivamseth22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamseth22&langs_count=8$theme=midnight-purple" alt="shivamseth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamseth22&" alt="shivamseth" /></p>
