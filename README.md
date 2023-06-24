@@ -24,14 +24,17 @@
 <a href="https://www.hackerrank.com/shivamseth221104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="error " height="30" width="40" /></a>
 </p>
 <hr>
-<hr>
+<h3 align="left"> Some of my stats 📊:</h3>
 
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codeERshivam22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codeERAayush" /></a><a href="https://ko-fi.com/codeeraayush"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codeeraayush" /></a></p><br><br> -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamseth22&langs_count=8&show_icons=true&locale=en&theme=midnight-purple" alt="codERSunny812" /></p>
 
-<hr>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamseth22&show_icons=true&theme=midnight-purple" alt="codERSunny812" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamseth22&show_icons=true&locale=en" alt="shivamseth" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamseth22&langs_count=8$theme=midnight-purple" alt="shivamseth" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamseth22&" alt="shivamseth" /></p>
+<p>&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamseth22&theme=midnight-purple" alt="codERSunny812" /></p>
+
+
+ 
+ 
+
+
